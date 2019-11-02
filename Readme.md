@@ -2,7 +2,8 @@ Flask - User data management APIs
 
 Two APIs built to support create and retrieve user data. 
 User fields:
-_First name
+
+First name
 
 Last name (optional)
 
